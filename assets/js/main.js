@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const testimonialsSwiper = new Swiper(".testimonials-swiper", {
     slidesPerView: 1,
     spaceBetween: 30,
-    loop: true,
+    loop: false,
     autoplay: {
       delay: 5000,
       disableOnInteraction: false,
