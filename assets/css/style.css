@@ -960,20 +960,19 @@ h6,
 .testimonial-text::before,
 .testimonial-text::after {
   content: "";
-    font-size: 3rem;
-    color: var(--accent-gold);
-    position: absolute;
-    opacity: 0.3;
+  font-size: 3rem;
+  color: var(--accent-gold);
+  position: absolute;
+  opacity: 0.3;
 }
 
 .testimonial-text::before {
-    top: -1rem;
-    left: -1rem;
+  top: -1rem;
+  left: -1rem;
 }
 
 .testimonial-text::after {
-    content: "
-    "";
+  content: "";
   bottom: -2rem;
   right: -1rem;
 }
