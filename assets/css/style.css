@@ -234,9 +234,6 @@ h6,
     width: 100%;
     margin-left: 0 !important;
     text-align: center !important;
-    background: rgba(245, 245, 245, 0.11)
-    backdrop-filter: blur(15px);
-    border-radius: 15px;
     padding: 2rem 1rem;
   }
 
